@@ -1,0 +1,49 @@
+body{
+	background: #FFFFE2;
+}
+.head_ing{
+	text-align: center;
+	color: white;
+	background: black;
+	padding: 10px;
+}
+.par_a{
+	background: black;
+	color: white;
+	border: red;
+	padding: 10px;
+}
+#im_g{
+	width: 100%;
+	height: 250px;
+}
+#foot_er{
+	background: black;
+	color: white;
+	text-decoration:none;
+	margin: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 20px;
+}
+.lin_k{
+	color: white;
+	text-decoration: none;
+}
+.lin_k:hover{
+	color: white;}
+.lis_t{
+	list-style: none;
+}
+#bu_tton{
+	color: black;
+	background: #FFFFE2;
+	padding: 5px;
+	border: red;
+}
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
